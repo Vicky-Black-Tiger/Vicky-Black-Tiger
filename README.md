@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](vicky-black-tiger.io)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](vicky.io)
 <h1 align="center">Hi 👋, I'm Midatha Vicky</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
