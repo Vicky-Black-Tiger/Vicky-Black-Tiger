@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)](vicky.io)
+[![MasterHead](https://images.ctfassets.net/7thvzrs93dvf/wpImage18529/860c14aab96caedec03fda089b5aef7a/green-pine-upsplash.png?w=900&h=225&q=100)](vicky.io)
 <h1 align="center">Hi 👋, I'm Midatha Vicky</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
